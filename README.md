@@ -20,54 +20,41 @@ https://github.com/jsbien/psikora-moredjvushapetools/.
 
 ## A simulated user sessions:
 
-### DjVu Shape Labeler: Unlabeled Shape Tree  
-**Przeglądarko-etykieciarka: nieopisane drzewo kształtów**  
-![e1_01.png](img/e1_01.png)
+**Figure 1** — Unlabeled shape tree  
+![Figure 1](img/e1_01.png)
 
-### DjVu Shape Labeler: Labeling the Main Shape (Letter 'u')  
-**Przeglądarko-etykieciarka: wprowadzenie opisu głównego kształtu (litera u)**  
-![e1_02.png](img/e1_02.png)
+**Figure 2** — Assigning main shape label (‘u’)  
+![Figure 2](img/e1_02.png)
 
-### DjVu Shape Labeler: Confirming the Main Shape Label  
-**Przeglądarko-etykieciarka: zatwierdzenie opisu głównego kształtu**  
-![e1_03.png](img/e1_03.png)
+**Figure 3** — Confirming main shape label  
+![Figure 3](img/e1_03.png)
 
-### DjVu Shape Labeler: Removing Subtree with Incorrect Shapes (Letter 'n')  
-**Przeglądarko-etykieciarka: wycinanie poddrzewa z niewłaściwymi kształtami (litery n)**  
-![e1_04.png](img/e1_04.png)
+**Figure 4** — Removing a subtree with incorrect shapes (‘n’)  
+![Figure 4](img/e1_05.png)
 
-### DjVu Shape Labeler: Result of Subtree Removal with Incorrect Shapes  
-**Przeglądarko-etykieciarka: wynik wycinania poddrzewa z niewłaściwymi kształtami**  
-![e1_05.png](img/e1_05.png)
+**Figure 5** — Result of subtree removal  
+![Figure 5](img/e1_06.png)
 
-### DjVu Shape Labeler: Removing a Single Incorrect Shape (Letter 'n')  
-**Przeglądarko-etykieciarka: wycinanie pojedynczego niewłaściwego kształtu (litera n)**  
-![e1_06.png](img/e1_06.png)
+**Figure 6** — Removing a single incorrect shape (‘n’)  
+![Figure 6](img/e2_07.png)
 
-### DjVu Shape Labeler: Result of Removing One Shape, Next Incorrect Shape Marked (Letter 'a')  
-**Przeglądarko-etykieciarka: wynik wycinania pojedynczego niewłaściwego kształtu, zaznaczony kolejny niewłaściwy kształt (litera a)**  
-![e2_07.png](img/e2_07.png)
+**Figure 7** — Result of removal, next incorrect shape marked (‘a’)  
+![Figure 7](img/e2_08.png)
 
-### DjVu Shape Labeler: Removing a Single Incorrect Shape (Letter 'a')  
-**Przeglądarko-etykieciarka: wycinanie pojedynczego niewłaściwego kształtu (litera a)**  
-![e2_08.png](img/e2_08.png)
+**Figure 8** — Removing the incorrect shape (‘a’)  
+![Figure 8](img/e2_09.png)
 
-### DjVu Shape Labeler: Result of Removing a Single Incorrect Shape  
-**Przeglądarko-etykieciarka: wynik wycinania pojedynczego niewłaściwego kształtu**  
-![e2_09.png](img/e2_09.png)
+**Figure 9** — Result of removing shape ‘a’  
+![Figure 9](img/e2_10.png)
 
-### DjVu Shape Labeler: Removing Another Subtree with Incorrect Shapes (Letter 'n')  
-**Przeglądarko-etykieciarka: wycinanie kolejnego poddrzewa z niewłaściwymi kształtami (litery n)**  
-![e2_10.png](img/e2_10.png)
+**Figure 10** — Removing another incorrect subtree (‘n’)  
+![Figure 10](img/e2_11.png)
 
-### DjVu Shape Labeler: Removing Another Subtree with Incorrect Shapes (Letter 'n')  
-**Przeglądarko-etykieciarka: wycinanie kolejnego poddrzewa z niewłaściwymi kształtami (litery n)**  
-![e2_11.png](img/e2_11.png)
+**Figure 11** — Removing another incorrect subtree (‘n’)  
+![Figure 11](img/e2_12.png)
 
-### DjVu Shape Labeler: Marking Another Subtree for Removal (Letter 'n')  
-**Przeglądarko-etykieciarka: zaznaczenie do wycinania kolejnego poddrzewa z niewłaściwymi kształtami (litery n)**  
-![e2_12.png](img/e2_12.png)
+**Figure 12** — Marking another subtree for removal (‘n’)  
+![Figure 12](img/e2_13.png)
 
-### DjVu Shape Labeler: Final Shape Tree Containing Only the Letter 'u'  
-**Przeglądarko-etykieciarka: ostateczne drzewo kształtów zawierające tylko literę u**  
-![e2_13.png](img/e2_13.png)
+**Figure 13** — Final shape tree containing only the letter ‘u’  
+![Figure 13](img/e2_14.png)
